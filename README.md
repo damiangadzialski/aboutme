@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @damiangadzialski
-- 👀 I’m interested in digital marketplaces and platforms. I also enjoy data engineering. 
-- 💞️ I’m looking to collaborate on digital transformation ventures.
+- 👀 I specialize in development of digital products, marketplaces and platforms. I also enjoy data engineering. 
 - 📫 reach me at: gadzialski@gmail.com
 
 <!---
